@@ -1,0 +1,11 @@
+p {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    padding-top: 1.5vw;
+}
+img {
+    margin: -28px;
+}

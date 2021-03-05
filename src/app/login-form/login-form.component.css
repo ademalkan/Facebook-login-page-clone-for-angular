@@ -1,0 +1,47 @@
+form {
+  align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    margin: 20vh 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+    font-size: 14px;
+}
+.pages {
+  color: inherit;
+  cursor: pointer;
+  text-decoration: none;
+}
+.pages:hover {
+  text-decoration: underline;
+}
+.btn-success {
+  background-color: #42b72a !important;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+p {
+  color: #1c1e21;
+  font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  margin-right: 8.5rem;
+}
